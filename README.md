@@ -1,5 +1,5 @@
 ### NMED-A124680
-### Heterogeneous risk factors impact aging in non-stereotypical Latin American populations.
+### Heterogeneous risk factors impact aging in Latin American populations.
 
 #### Description 
 
