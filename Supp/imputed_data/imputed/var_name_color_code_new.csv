@@ -1,0 +1,19 @@
+oldname,newname,factors,factors_name
+FD_none_Edad_a01b,Age,DF,Demographic Factor
+FD_none_Sexo_c18,Sex,DF,Demographic Factor
+FM_CardioMetab_Diabetes_c05,Diabetes,HF,Health Factor
+FS_Educ_yeduca,Education,SDHF,Social Determinants of Health Factor
+FS_Aislamiento_ViveSolo_g2,Live Alone,SDHF,Social Determinants of Health Factor
+FS_EstSocEcon_TipoVivienda_none,House Condition,SDHF,Social Determinants of Health Factor
+FM_CardioMetab_Hiperten_c04,Hypertension,HF,Health Factor
+FM_CardioMetab_IAM_c08,Heart Disease,HF,Health Factor
+FM_EstiloVida_Alcohol_c23,Alcohol consumption,LSF,Life Style Factor
+FM_EstiloVida_ActividadFis_c25a,Physical activity,LSF,Life Style Factor
+FM_EstiloVida_Fuma_c24,Smoking status,LSF,Life Style Factor
+FM_EstiloVida_Caida12Mes_c11,Falls,HF,Health Factor
+FM_EstiloVida_Caida12Mes_c11_knn,Falls_knn,HF,Health Factor
+FM_EstiloVida_Caida12Mes_c11_pred,Falls_rf,HF,Health Factor
+FM_EstiloVida_Caida12Mes_c11_pred_II,Falls_lr,HF,Health Factor
+FM_SaludMental_ProbNervDiagnost_c20,Mental Problems,PSF,Psychiatric Symptoms Factor
+MMSE,MMSE,n,
+Barthel,Barthel,n,
