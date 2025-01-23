@@ -1,5 +1,5 @@
 ### NMED-A124680
-### Heterogeneous risk factors impact aging in Latin American populations.
+### Factors associated with healthy aging in Latin American populations.
 
 #### Description 
 
